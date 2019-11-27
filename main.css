@@ -1,0 +1,11 @@
+.questionbox{
+    width:50%;
+    height:80%;
+    position: absolute;
+    bottom:0;
+}
+
+p{
+    display: inline-block;
+    width:50%;
+}
